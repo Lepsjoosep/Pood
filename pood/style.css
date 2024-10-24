@@ -69,3 +69,49 @@ header {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     text-align: center;
 }
+.taust {
+    width: 100%;
+    height: 1130px;
+    overflow: hidden;
+}
+.kast{
+    height: 550px;
+    width: 800px;
+    position: absolute;
+    bottom: 25%;
+    right: 10%;
+    background-color: blanchedalmond;
+    color: grey;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.nupp {
+    border-style: solid;
+    font-weight: bold;
+    border-color: peru;
+    width: 200px;
+    height: 80px;
+    background-color: peru;
+    color: white;
+    font-family: Poppins;
+    font-size: 15px;
+}
+.alatekst {
+    font-family: Poppins;
+    position: absolute;
+    left: 45%;
+    padding-top: 100px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.alamtekst {
+    font-family: Poppins;
+    color: gray;
+    position: absolute;
+    left: 41.5%;
+    padding-top: 25px;
+    top: 1350px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
