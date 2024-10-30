@@ -99,8 +99,9 @@ header {
 .alatekst {
     font-family: Poppins;
     position: absolute;
-    left: 45%;
-    padding-top: 100px;
+    left: 43%;
+    top: 1150px;
+    padding-top: 0px;
     font-weight: bolder;
     font-size: 30px;
 }
@@ -108,10 +109,156 @@ header {
     font-family: Poppins;
     color: gray;
     position: absolute;
-    left: 41.5%;
+    left: 38%;
     padding-top: 25px;
-    top: 1350px;
+    top: 1175px;
     font-weight: bold;
     font-size: 20px;
 
 }
+.dining {
+    border-radius: 15px;
+    position: absolute;
+    left: 100px ;
+    top: 1350px;
+    width: 500px;
+}
+.sitting {
+    border-radius: 15px;
+    position: absolute;
+    top: 1350px;
+    width: 500px;
+    left: 700px;
+}
+.sleeping {
+    border-radius: 15px;
+    position: absolute;
+    top: 1350px;
+    width: 500px;
+    right: 100px;
+}
+.tekstdining {
+    position: absolute;
+    top: 2025px;
+    left: 260px;
+    font-family: Poppins;
+    font-size: 40px;
+}
+.tekstliving {
+    position: absolute;
+    top: 2025px;
+    left: 885px;
+    font-family: Poppins;
+    font-size: 40px;
+}
+.tekstbedroom {
+    position: absolute;
+    top: 2025px;
+    right: 250px;
+    font-family: Poppins;
+    font-size: 40px;
+
+}
+.ourproducts  {
+    position: absolute;
+    top: 2150px;
+    left: 41%;
+    font-size: 50px;
+    font-family: Poppins;
+}
+.ostukast{
+    height: 520px;
+    width: 350px;
+    background-color: #f1f1f1;
+    position: absolute;
+    top: 2300px;
+    left: 180px;
+}
+.ring {
+    height: 60px;
+    width: 60px;
+    background-color: red;
+    position: relative;
+    top: 1110px;
+    left: 430px;
+    z-index: 10;
+    border-radius: 50%
+}
+.tekstring{
+    position: relative;
+    z-index: 10;
+    top: 1065px;
+    left: 432px;
+    font-family: Poppins;
+    font-size: 20px;
+    color: white;
+}
+.body {
+    overflow-x: hidden;
+}
+.kasthover{
+    opacity: 90%;
+    height: 520px;
+    width: 350px;
+    background-color: gray;
+    position: absolute;
+    top: 2300px;
+    left: 180px;
+    
+}
+.ostukast2{
+    height: 520px;
+    width: 350px;
+    background-color: #f1f1f1;
+    position: absolute;
+    top: 2300px;
+    left: 580px;
+    }
+.ostukast3{
+    height: 520px;
+    width: 350px;
+    background-color: #f1f1f1;
+ position: absolute;
+   top: 2300px;
+  right: 580px;
+   }
+   .ostukast4{
+    height: 520px;
+    width: 350px;
+    background-color: #f1f1f1;
+ position: absolute;
+   top: 2300px;
+  right: 180px;
+   }
+   .ostukast5{
+    height: 520px;
+    width: 350px;
+    background-color: #f1f1f1;
+    position: absolute;
+    top: 2900px;
+    left: 180px;
+    }
+    .ostukast6{
+    height: 520px;
+    width: 350px;
+    background-color: #f1f1f1;
+    position: absolute;
+    top: 2900px;
+    left: 580px;
+    }
+    .ostukast7{
+        height: 520px;
+        width: 350px;
+        background-color: #f1f1f1;
+        position: absolute;
+        top: 2900px;
+        right: 580px;
+        }
+        .ostukast8{
+    height: 520px;
+    width: 350px;
+    background-color: #f1f1f1;
+    position: absolute;
+    top: 2900px;
+    right: 180px;
+    }
