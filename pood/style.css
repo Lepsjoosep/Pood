@@ -262,3 +262,24 @@ header {
     top: 2900px;
     right: 180px;
     }
+.kast2 {
+    width: 300px;
+    height: 170px;
+    background-color:white;
+    opacity: 90%;
+    position: relative;
+    z-index: 10;
+    top: 2920px;
+    left:42% ;
+    }
+.nupp2 {
+    width: 60px;
+    height: 60px;
+    font-size:35px;
+    color: white;
+    background-color: rgb(219, 158, 44);
+    border-style: none;
+    position: absolute;
+    top:4339px;
+    left: 58%;
+}
